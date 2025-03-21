@@ -1,3 +1,7 @@
-.bg{
+.bg {
     background-image: url(../images/ecommerce.jpg) !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh; /* Ensures the background covers the full viewport height */
 }
